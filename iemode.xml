@@ -2,7 +2,7 @@
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>05/26/2022 12:10:31</date-created>
+    <date-created>05/26/2022 14:19:06</date-created>
   </created-by>
   <site url="bmserv/evonet/Login.asp">
     <compat-mode>IE5</compat-mode>
@@ -20,7 +20,7 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="excite.co.uk">
+  <site url="powershellblogger.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
