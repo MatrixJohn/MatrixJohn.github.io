@@ -4,24 +4,9 @@
     <version>12.0.0.0</version>
     <date-created>05/26/2022 14:19:06</date-created>
   </created-by>
-  <site url="bmserv/evonet/Login.asp">
-    <compat-mode>IE5</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="bmserv/evoweb/frmLogin.asp">
+    <site url="bmserv">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="bmserv">
-    <compat-mode>IE5</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="https//remote.writersbureau.com">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="powershellblogger.com">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
+  
 </site-list>
